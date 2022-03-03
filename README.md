@@ -5,7 +5,7 @@ This project is nothing more than a GUI around that command, to see in a visual,
 
 Here's a screenshot of the running application with a list of the scheduled alarms, grouped in batches:
 
-![Screenshot 1](https://github.com/hf7612/DumpsysAlarmClone/blob/master/images/Screen_001.png)
+![Screenshot 1](https://github.com/hf7612/DumpsysAlarmClone/blob/master/images/test.png)
 
 There's a primitive filtering functionality implemented at the moment. You have to write the full package name and refresh via Menu or F5 shortcut. You will see only the alarm of your interest:
 
